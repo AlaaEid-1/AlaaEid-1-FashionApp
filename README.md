@@ -5,9 +5,6 @@
 
 ## Team Members:-
 
-- [Aref AlRayes](https://github.com/arefalrayes)
-- [Saif Al Hayek](https://github.com/SaifHayek)
-- [Shatha K. Eqdaih](https://github.com/shathakh)
 - [Alaa Eid](https://github.com/AlaaEid-1) 
 
 ## What is Fashion app?
@@ -27,7 +24,6 @@ An Online premium clothing store for women which contains all their needs such a
 
 Throughout the developing process of the 'Fashion' app, we ,the 'Fashion' app developers team, have practiced a lot on these phases:-
 
-- Teamwork
 - Git & Github
 - HTML5 & CSS3
 - Responsive Web Design
