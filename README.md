@@ -1,6 +1,6 @@
 # FashionApp
 
-## You can check the app [here](https://gsg-cf05.github.io/FashionApp-team3/).
+## You can check the app [here](https://alaaeid-1.github.io/AlaaEid-1-FashionApp/).
 
 
 ## Team Members:-
