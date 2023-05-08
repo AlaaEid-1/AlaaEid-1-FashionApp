@@ -1,4 +1,4 @@
-# FashionApp-team3 
+# FashionApp
 
 ## You can check the app [here](https://gsg-cf05.github.io/FashionApp-team3/).
 
